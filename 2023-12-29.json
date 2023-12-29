@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Jenkins",
+  "age": 55,
+  "address": {
+    "street": "Decov Ridge",
+    "city": "Umiepuwu",
+    "state": "NV",
+    "zip": "29303"
+  },
+  "contact": {
+    "phone": "(654) 540-1877",
+    "servicePhone": "800123792"
+  },
+  "birthday": "1972-03-15T12:26:53.554Z",
+  "ip": "251.56.208.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Roje acojli evijoji bag gujalaw cesak leweip wacni hef pof ujoehfo herurdu uvuuboebu joabosu uge napzad. Simbebha posrul ukewat urehafus pigep ra ribew las gi foruc hezmu ow ki nuz vuvawamok uba. Cedifle ah lozi kubetej boga surug lo zobposet ji jepeg uzotufog wizlimuj. Zooduoze gom oltiduku mu ukafaesu niczoosi won ezaepa jop buw ba oger gud arevorlul ci vuenoz pugbedum pa.",
+    "bio": "Pudwice ecuco udu sadiw cachehsil wuhlas tonokma sednu azi ranuzo pekvemca powjuge vodcibna zi. Ju vav fe dapihce pugsi tohu ul ri web tofovoc majdi car idtul imalufu uhjetwan avzoc. Daruhdi tike se baciw johuci tiveki lited du zowaz tosektag ni kic."
+  },
+  "apiKey": "a4bc3fa18bbc47b81f164596264696878618f81b47b466b24e9c9ea1f886046c",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
