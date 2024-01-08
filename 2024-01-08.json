@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Figueroa",
+  "age": 50,
+  "address": {
+    "street": "Basti Drive",
+    "city": "Wagallu",
+    "state": "LA",
+    "zip": "01803"
+  },
+  "contact": {
+    "phone": "(863) 764-9449",
+    "servicePhone": "800423146"
+  },
+  "birthday": "1972-12-14T06:38:51.721Z",
+  "ip": "171.76.78.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Luwil ujo surso og baon cuwrol zuksi zul gavila cebikhu di ipu pacbagci kojihu necieco. Dezoti heub giki juku gouwfep bu upaara lavo bi rujuddu etcer tiwpa bic fig acerurje lop. Ru hejep mopzap imbuz ohehuwsu ozefi tedhaset dedcohaz takripo lozlotac rer ijep cadipa doaze mu odaniupo. Gizne suzove gauto adu kefolek normeb dig baazelen foevolal oh cufzon tifojzec uduka dun. Bojhajip naze eto mardas lawobi en ubpib zalfi me ihebap heb mi mev bav kusahe ol. Livvaspej ajuriew efubap dujano vir behiwnag tucino fentog rugfevda hu teapane fu nuwolek re bevrimjuc me patfaj dacarpad.",
+    "bio": "Nap himcandov ho mosrubar biec per pe tumok noro veale wuun nor buhbaak veemu. Pandozgud su teg bi ruvig bomidofid hos umjef jemebse ot ribso ojuivace so owoso miwab nezporeso luv. Voweroso kot ta zof necleoh teici ugiehazu bunipi bujetur gonofle rufa si rurgip."
+  },
+  "apiKey": "39947ba60ea4367b37a178ef95dc614f2509bb2730fe4dcc8fa1d7a8413a7324",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
