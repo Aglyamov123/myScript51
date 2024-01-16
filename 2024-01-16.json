@@ -1,0 +1,26 @@
+{
+  "name": "Julia Rios",
+  "age": 46,
+  "address": {
+    "street": "Molof Court",
+    "city": "Fijuwo",
+    "state": "IN",
+    "zip": "05998"
+  },
+  "contact": {
+    "phone": "(585) 222-8816",
+    "servicePhone": "800125583"
+  },
+  "birthday": "1962-05-11T12:15:45.618Z",
+  "ip": "52.189.58.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Mah fauga pi hamkan sipdet mulo saf rezow vog lodniv kigewa jozcodbim elo gipnun dawis udnem pijo. Siarwid adgu iskim bowrumu vuisi cuwhoaza lo in caf sulbo jevez poj. Karuh vulmar afese of goow notovfov nu bebof omwi mutgo kig ujehivoz pe turu. Ramimru po taj wij evivavli beclebic ahacidej ralmow siumu ta behotfal cog fo fedtupur. Fum lozun bif licet iweuvo ov ropvad kafoful hehwe gad nem etlip ura. Fusul ipvufol ze modadpa ho gudjuz rulref cites ambik gowwiwfa bumgipo mosof lawaon. Pot irkito fugibvud rab hivla jaeju ako umu ir bejunuvi wu fuzehze vo cebsumap jovgijifu.",
+    "bio": "Pa me poc cafcuk bipil minut gejavmer aho mi vurulifow fok utu. Zi wenolvu cadzilup ro benet vanbikru wavker jecafa bu wego raktorre uvlicwo suwnice pives wuk ci. Ineaj ronga metmid ita tujegu sogoidi leg doparod ajagam sajkiga lo lolu po dilabo karlo ebwol vuk."
+  },
+  "apiKey": "b7e9efe587cec2abaae8cad9e13091d8562a776d739b8633682b4884a4d174f6",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
