@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Cortez",
+  "age": 55,
+  "address": {
+    "street": "Iniko Ridge",
+    "city": "Horukun",
+    "state": "RI",
+    "zip": "16621"
+  },
+  "contact": {
+    "phone": "(442) 806-5741",
+    "servicePhone": "800393452"
+  },
+  "birthday": "1998-03-31T05:39:59.744Z",
+  "ip": "27.19.74.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Fereolo gaucipis keir hucwi ke vuitedih utabo jap vuoha togajwu bi widajaju zajweho vewazu woleb tuhagrij. Da zavibaguc uv ergo awajetir pifcohna ahe mekcactu no fevab tej fo gawaob miriki. Lusrav vagaufi ov wefrin koddo cullapic vu unoso hifa peom tolice lo areme bahwagke daje.",
+    "bio": "Wegkumro pof kordu vejkesve bidlic wil terteb ti hopupi ni ipedi wajo mimto nugu. Lotwafla jago zuseh uresew ese wowuge ohigasho awlor fi ver ulizika cuhzomic ig gegunowo ezwuz kazjirvul. Gif dafom wi jog moruvlu ve ecleiz epirow rolso lowteju boz mobveba gizobot mupnotaf hac. Ehhode lej jitof bodak ib faw nojebluj gu dofawa jeckecaw muajvuc da wazvi gukibzu kat keog el uzokekis."
+  },
+  "apiKey": "a20ad4c9890ff19dcb99571f2ceabf300b49c66d627e9c94c0e132cc428c6c51",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
