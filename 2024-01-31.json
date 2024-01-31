@@ -1,0 +1,26 @@
+{
+  "name": "Ian Graves",
+  "age": 48,
+  "address": {
+    "street": "Vacnoc Park",
+    "city": "Godiklid",
+    "state": "NC",
+    "zip": "93981"
+  },
+  "contact": {
+    "phone": "(583) 214-9929",
+    "servicePhone": "800157335"
+  },
+  "birthday": "1996-01-31T12:11:21.216Z",
+  "ip": "239.93.29.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Wofi suf neju bi fo vob zus ufep fivet kubkeej idma dufwi ew. Nolkamo lab negidomu eb suku rople avium voziworo sicig balaan ap lona ja. Uhvil zeovjoz tog iveamivi at jec mudgobvac tear ut kegcif asufoji mi.",
+    "bio": "Amuhozku wezpo opwol cemizoz vonumup ugueto gi taowgok uzgeri kazlu wambu tunpude pavzumpoc fe. Tunonve gaf rekpav evi bit gi ohzazde gaeliser vuhto fubdojdis erapis urpiupi. Kaire hi ras zube ufupo romaj ogo cekekad hehocgul ogozavudi kikmildu mi bi. Jawoag haki hati anetihwuw pazsoc lem aposdez mumbal ni on me tovepa savuppu nemacufum."
+  },
+  "apiKey": "ba44febefc0c1dc52c6b5aae465527386c89283f7bb4946ff2208f37c8f37491",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
