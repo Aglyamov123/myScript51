@@ -1,0 +1,26 @@
+{
+  "name": "Roy Hall",
+  "age": 35,
+  "address": {
+    "street": "Wastoj Way",
+    "city": "Gemijdu",
+    "state": "NC",
+    "zip": "40781"
+  },
+  "contact": {
+    "phone": "(373) 220-5762",
+    "servicePhone": "800159384"
+  },
+  "birthday": "1960-08-31T05:05:32.639Z",
+  "ip": "50.38.217.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Lelwopaj dabze mawbuni luf tolod tetipov lihsoas ze iscuka wafafeh puw hij jejtaw jo. Cubah jojebse gi maho ha bewkes rodciwe pojlo hi sog tujulzat ke lokteg re. Cok so lo jutul ruljaj ihteom idobli liiv wudot kikobe ivnaza lusrug lefum cohwi.",
+    "bio": "Upko simuboc sec zehooj fe sapo wolidvu ka lejgizu az suz sit zeewrug umuna boligufob. Elfu len decer wohboloti so at ivepies zizi igodelzac tedizu veso pir izav pe hofec ob fovev ufu. Va bavlef ahkece jajele lu genani okiaturi medde nac mapeg kamezafef ogo zuuv oho vaj hasojikug wu efe. Nahozo urnejo kata nuzcij ti nofkoco ro eki ezdunevu vencaj reh pohivwa napafsut lab ri devapusid."
+  },
+  "apiKey": "fa88d9fc654816da7409bc810a4aaa11cd791e8a7cc31713da5cc4c8c36f0e17",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
