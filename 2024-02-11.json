@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Nelson",
+  "age": 21,
+  "address": {
+    "street": "Kuhi Way",
+    "city": "Juibovu",
+    "state": "ID",
+    "zip": "61797"
+  },
+  "contact": {
+    "phone": "(936) 439-5022",
+    "servicePhone": "800582629"
+  },
+  "birthday": "1985-06-08T07:03:02.685Z",
+  "ip": "149.102.199.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Abkuf emaka ce ihosa toje tuwso roro asluzje rizab wi ha juv sot zikpelpum lais ev. Pedosac wudoruw eza vo zup nahew wep mu fejrodwu pono buwizas ti vupev aktef. Oge geopiciv fulinuge tuvepavo kevwew romom tujju bi kaci jeghamigi gig ub zego aviki. Ise vek tumvuv mochajji odgoka agu ub ugasofo macamboz wo walgik apona osuteaho li du epi hika. Tanzoip mi fi jim azti use le wu mariemo gurluddi nifnu epwuvdil. Aju ritto toh sado lipuh uple ibeku sijeb maczaj ze vihev wovze teh inani muj. Desazo nuithi ci inuvi sa komu rogofuc ififurewe bu agi tepocloh uva luegade widatfi tus cigouwa me.",
+    "bio": "Netuzub fusrif zi zi jar ri ipa uwowoiw remut dal efkow cad leni. Zaguwko kesawenak lidvu av makwanow me aru hut bo pah pewki zab hu ha apke veribvet voc. Ozu jul le kudo iblu johi dasomo jazisot vuscun us ce caf je nuvobem sebojzun konco. Eni wibokad juk jorocuk lafto mi kutwajo erku dot wi os talu ze ugawizse rirasot cal okme pep."
+  },
+  "apiKey": "a16265cd9da746374ff05c7708a4a0b459dfb5034787d151f028e2a83c5f2f1a",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
