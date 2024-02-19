@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Kelley",
+  "age": 35,
+  "address": {
+    "street": "Juvez Drive",
+    "city": "Kiribi",
+    "state": "GA",
+    "zip": "55668"
+  },
+  "contact": {
+    "phone": "(770) 291-9214",
+    "servicePhone": "800261425"
+  },
+  "birthday": "1966-04-08T04:13:17.781Z",
+  "ip": "52.246.218.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Pirve ab bomoko guod tiwusir ap halkewwig dore wawob gaewogif buliju zara. Jo zetu rogo um owe kuesi dobfu ocho raize mahuzomoc gariziah ecmik ne zalot ocuurelas ete ki. Virablu ep bi ledgeb vipmu od be culjapo hineblad imkohed erkaleti hov. Loudkol maz seul nu wopizmaf tippetad va pi zahulaizu guhewgu wo rofna kotusu bifuzpef hawu ini.",
+    "bio": "Ejozina uz elroali mioro padilboj lubis lih zevrirum cumko covde voz jod faf la legeb. Zulagak fe er kaal salro mes male helmicne iv zi sasna et piniebi. Gam vig wa wofnaw wimenih kikce ula cebocudu lo gasbir ubofoti ir. Ohdiz nogoh en cap lusuc raed fohhug nu abepunu jisafo voblalrus pi dizrazsu nul reab rad."
+  },
+  "apiKey": "b6c79fbbefbcbadee92e1d6a89dd57df2ce6d6c029e546a8452ebf59ce5791f9",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
