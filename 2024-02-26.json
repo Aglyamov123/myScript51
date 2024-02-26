@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Barrett",
+  "age": 23,
+  "address": {
+    "street": "Mepaw Ridge",
+    "city": "Eghicwir",
+    "state": "MI",
+    "zip": "78767"
+  },
+  "contact": {
+    "phone": "(733) 386-8515",
+    "servicePhone": "800828456"
+  },
+  "birthday": "1968-07-21T02:45:46.256Z",
+  "ip": "65.92.168.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Vewde ipolo igaro megva eku ij za sabhuv evuifzi niejiaze epoc upo cu mi ogo awe gumomve hunvi. Giletu ni vomla ge eb bodviszo zajhus gipekgel wa baciw rijmakwu buw nail. Ana oma femuovo vuc ebugi po zid jotuz wufeb toena kiirjo arecaj willupup ecuongu kovbihos nikec letfu. Po anotugwi et pibuluru nad sadel ge ru ubavubud murpom iwfovwuk cu wotike mus.",
+    "bio": "Wob gewet bengorluw koije ofa kamha iwapikor zipmobac wilesa vuzebfov roizuci miudiag rumal izadog girvek igowu nene. Ma fawsipe dar zepote wazasa du rod fu fa tisge jirat obpal piun erikave horahura. Ukesuh jokotpoh la lab liafra soz rungirzud wofav osok efucodda totsi juatebe lag ligur conbaoto. Besare owuda ra ujron migefbi raef su cikgaflib ribkoloj lakujnek lipugo gursu kollo jebud no jairo geej libo. Fi ebfa ma kejturza bet ufefoh geuzouva one erku op pe roomuju ola jafap rajecter."
+  },
+  "apiKey": "9bb3667db1fdbc5e003f6da95837e1f1897f86a46bef87bf6f149cc9863c7b2c",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
