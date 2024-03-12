@@ -1,0 +1,26 @@
+{
+  "name": "Leon Mason",
+  "age": 34,
+  "address": {
+    "street": "Kudne Ridge",
+    "city": "Nehutac",
+    "state": "MD",
+    "zip": "08512"
+  },
+  "contact": {
+    "phone": "(805) 612-3896",
+    "servicePhone": "800582964"
+  },
+  "birthday": "1993-07-09T09:58:08.694Z",
+  "ip": "224.108.17.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Sacuhop wouha kehnuti lu kap cuubohu essueh gacaip ileukeni vabbuwi bibed jamezo pofbuchi piziba. Umegude kami ok kuz fiswokco bane hufi luzu jermoctik rarevza vobmosak imejut wur ede. Bipu zurjugila lehwi avubil idage vubso osimavpod izouma tuzapi dewfej uhde nuv gusutaz erawahiw.",
+    "bio": "Orgikeh bac la acelur jagasoma saac dactod bu emsoego hiele wovtu pajletac dohsibtag ja. Varnow ritute urji do nasra ho lon rusma es uz agwajfa jup kuravkuv sozejmaw ilefo. Hafara kadsat foko do mo jewton gamdegew moup le bateho ter fudfipero ar kabupeup muvillu isogel ep ma."
+  },
+  "apiKey": "aac3122ced4357bc477020c54c9eff83280b218d48d0bf9de56692cd1a6f43b4",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
