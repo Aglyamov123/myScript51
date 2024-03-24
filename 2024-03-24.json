@@ -1,0 +1,26 @@
+{
+  "name": "Eric Rodriguez",
+  "age": 25,
+  "address": {
+    "street": "Ogouri Grove",
+    "city": "Nocwismil",
+    "state": "AK",
+    "zip": "68560"
+  },
+  "contact": {
+    "phone": "(631) 737-6714",
+    "servicePhone": "800394722"
+  },
+  "birthday": "2004-07-22T11:05:45.371Z",
+  "ip": "65.42.37.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Iku foczo cefatwe toluk sala cala fa leffebuf zaol liheige dejti ovuwiw pijiwre jigof boufevo ciej ophi etoife. Viifa focrukta tikab ade zibircuw cebluzgi hopeg wumtu patakil nuccum hika ewsajno vuavnep naveota timwuih ro. Simew tizda izwo weotafe siahohic edu eg ronewaki esozigwe sid elmijpa louzle jigko tiforu bapu lik maefugab vinmeare. Toiwo lubhigju foctorki bioca eg nab gol lepif abouzpem veeb josu ot cufug sutvip fapizpin sobus uz. Ahbet ekzet sirboz bakhounu kiubve wi baop hu cuptamoc nu mabzej ku.",
+    "bio": "Gijope if wekuciebe supudji fef ki nuek wi necez elfu makavla welar nimguna odo uhumuc huh fa. Furocola ofugodku hec saziafe buafa ehwipe pipdaz nimor sacekla binpuh epivobe abapijbu. Zueja ifokinow geuvvam rucpo jec hakpah gajzahan nom hade dew eruza puobjis. Cewgaj ogavod ug ehul tiwdifom wo jel jofawa bom tafilu hat wilal."
+  },
+  "apiKey": "1035ec1826e45d1da5087dbb1287ac17119ca51e36920b7d064683de23e91afe",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
