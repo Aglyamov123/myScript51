@@ -1,0 +1,26 @@
+{
+  "name": "Mike Bass",
+  "age": 28,
+  "address": {
+    "street": "Gupok Park",
+    "city": "Anofosob",
+    "state": "AL",
+    "zip": "85087"
+  },
+  "contact": {
+    "phone": "(527) 915-5602",
+    "servicePhone": "800765142"
+  },
+  "birthday": "1973-05-22T10:32:49.277Z",
+  "ip": "111.123.117.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Solsit judiz hadogipe pipuda dejvejab zori oz soevkap gaf ane fup zukka tu cawoval ukuba vuzidvut egi iba. Gafkuz kahmi biwowi dokgotja toj okvif feriuho utuzika upi deco cium piwumob. Fekukrog modufga uce alewi ohepi va na amauwamu tom me pi cisbi ju lu cacse dil purudi jib. Puvonoke balaja koohniv upvoj gi jijgucni loefog cisi bokak kiv is tuwolnuw hifrufus.",
+    "bio": "Kosu taz puj diaruse jietrus ipu cu go vef rozzag bo lehawi ne. Me ra vavubbu rewok witmidi wiajujo ivfomac dowvib nuho afifu cato gikbum ejicoseb fe uhekigwub fu moj. Ido cuhwahu azgilu teju guir initi iksoh dubpe sijus ninut kemgifit zowauge somib usofa lul satuva. Hufu sepib pe emetimwo wozbes fosreuro cupdihkuc gim wasepfem rorreg je kuwga ag. Girokvah edgehvu za winwiknic silumba jupijweb neze uki tu bobav ladropbab razkav tebwad sukede eveja. Ifezoj neriv zok netja ku behip lirhab nozomjo sejtib luv ac romi."
+  },
+  "apiKey": "b787805e9eafb82f5d31d13613f65789d2bc5143ef89e88a8f66e30befe70d12",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
