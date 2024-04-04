@@ -1,0 +1,26 @@
+{
+  "name": "Maria Oliver",
+  "age": 20,
+  "address": {
+    "street": "Jiden Highway",
+    "city": "Wilujen",
+    "state": "MA",
+    "zip": "06528"
+  },
+  "contact": {
+    "phone": "(652) 353-1624",
+    "servicePhone": "800448888"
+  },
+  "birthday": "1984-06-07T03:23:43.151Z",
+  "ip": "18.119.72.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Hofuf ajeuza edo kuniad jusujaj rutzedir zib damu kut fafla gabbaaga ukicikiwe uj hu ilromim roiwa. Le lobce megica kidnifo gov guse tirif fedabuvo jinekomu bowibsi ibo fiko. Pepo bisri itukiji zedmahlan mut zemihwic ciil kisa refop enazidho ohucuuti ga ri kusej amapifu.",
+    "bio": "Saadaub misjuh utozosu bod jo mukga go bupbamij he kuegni ojiluz karok nunod lon wutec kaz efi. Datfar si te igale si kusetu jimseb nicafnih gug id efson dotapi. Ebti zicaz sobhabda pup we kehku anuwib vapov ohazo net zohgozoda seritufa lab mi cereto reglaeh hofsoszas. Asisagna availasi wotpu balajzo temto di owfahle ledoso taleviv ge pop emobawe his. Ferac jaanu noafasu ite we web lofruko ehbav cojcoil vekwem gus zugot duwguvmi konefbu gewvawgi."
+  },
+  "apiKey": "9a417de117e9c1e986362729b8d21f7c7b9a65dc5c38cb65f29de155723d9a7f",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
