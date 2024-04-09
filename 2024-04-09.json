@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Glover",
+  "age": 37,
+  "address": {
+    "street": "Giros Plaza",
+    "city": "Cifauni",
+    "state": "WA",
+    "zip": "35642"
+  },
+  "contact": {
+    "phone": "(615) 449-1095",
+    "servicePhone": "800894771"
+  },
+  "birthday": "1976-05-21T01:36:51.078Z",
+  "ip": "80.219.152.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziv agawubnaz minselnaz roc eji kibcop tu limevwuh low fahlesa duwgasez redke hojlo wolvi. Nascu sunu daha zuep gof tahu sabjal pavervik pev lep kociz harva. Maseztip iga wu be lace an bepak kenircem fesajoaf jawmoroj but lu. Fugha jeb ali esoriucu uvhofa so vacu ek goncuz pi zezwaga ru lobafafe.",
+    "bio": "Fardezhu rapwoj eso ipca bizon kev ko bute cu zudzuwop pebeipu ubaba oninuw icegve gusowe lol. Teij geum haflezba ale rufegaci ri pas tofevih cijlurcak si jeku ze. Negosaj ig ijuec ekriz jum lirlegiw vapti pebvij penig mimul asdug zo."
+  },
+  "apiKey": "17ccd99ea9fe3d47031caf58ac99ef0491fb8f8ccd4f69ef71cba6b08cb65550",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
