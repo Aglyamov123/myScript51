@@ -1,0 +1,26 @@
+{
+  "name": "Todd Sparks",
+  "age": 45,
+  "address": {
+    "street": "Ragis Highway",
+    "city": "Ofeovuri",
+    "state": "NE",
+    "zip": "60926"
+  },
+  "contact": {
+    "phone": "(446) 851-2890",
+    "servicePhone": "800365278"
+  },
+  "birthday": "1971-10-15T10:32:55.055Z",
+  "ip": "223.241.184.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu mel opa ovmin wowdek kit ocifhok enoawe eha gupzas lodgomset oz oze hurumgum. Wa toni ja cedlace su ezuzi pe si gu tunjaku ro dor dopnokkov kira utu rarvafac igoguwda pahonup. Zo odkaruj sev tam do dubeha kauzo fi ejupe jum gitvibup duavzi.",
+    "bio": "Nummen awu laha fez naro ocalewfi momzepni jok lenap gouk ko hi uvuciipo peca idfauw bez. Sajow riam tofafifeg vona vusige baige ojuomuofu bu aboza uvaab miw gab diatajed vomolu mawalgu kuwbopoz vo obuiruwiz. Wuliwlu nubape aburmos samekuro luhdaf wumsok vewlow ca virge ni nec doisca. Adcasbot jejla liti miji cu vudhori tedhichuv ogeejvig ro ovenip ejasojwub izjoahu mad fir. Ik omaew ovorecbig iba aktignup tizgup wu ninazcoh pari ogvel muh tubnej vacusded ri atci camiz tecre wo. Eviuj gadokre ev leejaki kebok istat kugluci pu ukufoh covvojvul zafa ejejiabi co wam ocolicop ev."
+  },
+  "apiKey": "28ce6bb172b502582cd14107efac71c780ca51f99aa101cbb7c6980bf694ef29",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
