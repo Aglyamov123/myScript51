@@ -1,0 +1,26 @@
+{
+  "name": "Tony Walters",
+  "age": 23,
+  "address": {
+    "street": "Kobab Extension",
+    "city": "Somunmur",
+    "state": "WA",
+    "zip": "48406"
+  },
+  "contact": {
+    "phone": "(748) 311-1450",
+    "servicePhone": "800228194"
+  },
+  "birthday": "1974-05-07T01:23:57.074Z",
+  "ip": "128.105.204.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Suh fosap hamcebna uhjiw bifuk utoijub aku api fi sedcudza lonij kajtopa. Ekhe ipamibge bimefeg nidozwo lozwicu ulijozfo osgutos nuk noh zoigo weslon zitu li hamazza. Hagsasuci pizas hakre ipna pifculgic lo ikop himboder huhofim uvnate kede nanbama rukina sanosji. Hec mumja saawehe sawjeh vadon wivvi fefi baw sadhipa canaib nazagib usu uvajuj sofoelu bakupba.",
+    "bio": "Igi nauro osu eb gezvisham zak koka wajvejah zago pultefi tof ojolose gakvon wasazir. Roumamod ihaimadij ze likuru zicren fa vimul ga ha nivako jidlu siil arna uci ta fu gownogo. Ebahaho bitvor gauv vocpe ejbod fahe niswu ajamizona hoz zobmar ve elufopac susceeco eliujdiv. Ceanlow avoum cubaz piripfo izneppam go duna davuwog ohun buvsuuf walgaja zag nosirli kowaweduz kaluf hutaema. Ze helag bud wevateh dopzev bohgu bedkonoz uzife kicrevif nudi lu gocacpi jolrumi lesdun. Ruhalo zined ko pe polhaw ruw ni isuna hini op tivozijo ucisajpu liic suwfu. Uw ci maehwih rek roduzi upho zoram da tapivgu sez giku mab."
+  },
+  "apiKey": "8d7250827c35d7767870ae5dff4be15ce8fcf142926300942d2df963ea261612",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
