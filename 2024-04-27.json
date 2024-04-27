@@ -1,0 +1,26 @@
+{
+  "name": "Kathryn Collins",
+  "age": 47,
+  "address": {
+    "street": "Luhaf River",
+    "city": "Apazufti",
+    "state": "NY",
+    "zip": "76789"
+  },
+  "contact": {
+    "phone": "(605) 761-5299",
+    "servicePhone": "800469594"
+  },
+  "birthday": "1972-07-17T12:54:24.448Z",
+  "ip": "218.90.1.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Lewozrog ir kozoh biilce buf rujik rab he behu rukijgo un casa oradkas subofitir cugcajze tuiwhi tegug. Nuftottac gagih lu rehi pinjegan honiji oradu hehjel kulap awur vur jej lul. Vuf merurcol ubo mi uc wetezuve so nod bup mojehmub uc fuarsi uvnir ucako ehtavfo.",
+    "bio": "Gomicked epuvit secer fe cihejbov ime muje mu va va uv kudimi aw. Vuzek ce naptub iceri gejki ajukupe hev zilo ni vapevo wecfudow lecu ged mij iluso sogbobwow monenuni icleje. Nahato ivepipe se biiwenat womre pim tisge no de puh fojmovak dajkadmo gobal modladi cacca."
+  },
+  "apiKey": "01828e556cbc34bc8ae6f5215debaa99e25d9d13a944ab1a36d17abccb1ee2db",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
