@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Phelps",
+  "age": 36,
+  "address": {
+    "street": "Civkog Drive",
+    "city": "Dipzimbed",
+    "state": "VA",
+    "zip": "36473"
+  },
+  "contact": {
+    "phone": "(356) 942-3728",
+    "servicePhone": "800127927"
+  },
+  "birthday": "1980-09-03T10:52:06.955Z",
+  "ip": "88.145.7.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Dis peik zabgu favepni dorhitimi uve cu wil vuru kelhugli bimracke rew ezpul dejaom jugnu juneppa. Cavjej netlode mewadaz nupono zudom duspoov icowo ahug zirna uhmalgon ri re suisiali ewuli. Kidba gok maseweza kan utaub ehoez pul ib pabpaw ecva uhwo kawmodaf wujtagzu. En lubajar sit sun vajkavjof jo wof hudloug tugeha soggejub wukiuz iwevaz juwnog. Bo lo eki rege vive dujdothol ecueme firob sopekno widom sozvaav ovapop johzo.",
+    "bio": "Tesvu zuweji zoku ratolfoc kozta feufsa hinli ebueme kari ramic elu uhtem. Lazwojfa vi to ca wa fucja gi fegbelap jilehgav moz wila vah reda. Izo macop wegra hozmeci odouti hokimu zogu vuvelew ero ameusmoc heb vo da jow gagji uc anobezak kifijuv. Nookipo ti guvukloh so pub ofomar wiro luckufug pofen tinzawe tecsidag miifvo cujaw huna. Uhaujani pe ehelasoj te el ufaat muubu uzkuj wu nidekaf vu pekirib."
+  },
+  "apiKey": "fcb4c2fef0b2b87c76f230a752521701cfb9c087f37f2d51467851797ab17670",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
