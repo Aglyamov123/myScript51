@@ -1,0 +1,26 @@
+{
+  "name": "Billy Stephens",
+  "age": 39,
+  "address": {
+    "street": "Nutbir Turnpike",
+    "city": "Ganliogi",
+    "state": "MN",
+    "zip": "78054"
+  },
+  "contact": {
+    "phone": "(715) 799-6381",
+    "servicePhone": "800486711"
+  },
+  "birthday": "1996-12-06T08:16:31.315Z",
+  "ip": "99.171.253.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Lepse woekota hed atido nowde suchufovi atupe tev egasso tecujpin efcuf masaf niowarow. Zegiwwa uda jefluh vif zifur gef lance nij oluzemi jegvem rohkan so sew sespaf ebutemjac ufjip. Fihifwot as riphomu ovieh udmep siwef kuhon ro fitoko dogwapec ko danfu bil rizcolo wal pob fiha. Tohijlo egana lakbiju duvis amourde ban laihu rehcu rus pa mi je. Dab tanehva la fiwto bobo lasug kewzul lehuga ahu ok kohpufu hag.",
+    "bio": "Havol oma ajmapeju hadeklut wuwul suzti rif kidazdo ojecas fihza woiwoila mi anik buszewo. Suj oh fo pouzne liec ramzofo idizenzun sadsec wa reksun ca ze cuwuvbum hikacuh tooceda. Eru eja ibuubo wuvgaf afe nisama mifwuthem ecuf gop maba fi jos tilgagu ve icaagocum ifa."
+  },
+  "apiKey": "24db736e595e33f6096656c94570b6870519be4c4428aa8b7594036c8cc4bf08",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
