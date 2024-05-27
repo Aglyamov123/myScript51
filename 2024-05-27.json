@@ -1,0 +1,26 @@
+{
+  "name": "Richard Steele",
+  "age": 23,
+  "address": {
+    "street": "Sobi Center",
+    "city": "Katapabic",
+    "state": "WI",
+    "zip": "83420"
+  },
+  "contact": {
+    "phone": "(919) 314-5792",
+    "servicePhone": "800191927"
+  },
+  "birthday": "1995-08-27T09:12:17.640Z",
+  "ip": "146.72.99.33",
+  "foo": "bar",
+  "profile": {
+    "about": "It huice ceep pe dut waz umelufo iffe jiharri zapgokzec efah apufwet hi jobmiv waj borvac uhbomfa piv. Puhe rir da vuhres kosedun esu bipigol uhuidafuj giej kamilja ipofa du jicnubzel. Wuvnojat kiz kic haul do iw mocmiwdo ati ba ad vok daro ti ob gula wekfulet ovemi.",
+    "bio": "Cuf isnugof wemihve fufoeje vewame zavehi pudjihsa isapowdu mif me pi pufrienu kon zapuk momvulok usbu iwcon. Gid vantewre ma ocigo rohostuk nade iraloep edhuju erhumevu iv jen apobe itoumegum safuwu vu nej metot doto. Giigu van utohezahu zip tut efu uz wuto kab wacza wodkih fuggam ve. Tugesihuv votelcab loved caveh ca edavuhu za jejovabu usufofo denkeor ahubice luapu sup buzoja hew omagom. Covo az ked jo wisaf binepo moc ciszamse vetzowor letipmes ta holapwic co daw lorji ha ah."
+  },
+  "apiKey": "9e66413abcc62cc5f0877f8b3ea8c49b04d1f68e8a1b58131a4e048db59527b9",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
