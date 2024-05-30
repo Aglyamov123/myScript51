@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Frank",
+  "age": 49,
+  "address": {
+    "street": "Mebeni Lane",
+    "city": "Rawpoepu",
+    "state": "MS",
+    "zip": "65695"
+  },
+  "contact": {
+    "phone": "(388) 466-9240",
+    "servicePhone": "800273745"
+  },
+  "birthday": "1967-05-17T12:37:00.222Z",
+  "ip": "18.228.39.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Mivriva vuzud fovbitzoj jappohe fo baku ku co epa ukawateh ig toud jacu mut mewhel dum. Tara renasgev cafmumo kud ad ta daninip sidet cep tuzhasva kijasbim herocod cu pec vopokfu hozijo. Navtahjoc uw lu eg dewkebdon ziv dommen wawo uwubesbi neazaag vabagez bujduphe.",
+    "bio": "Ushatnad ha zuvliwogu pitjajib bas kep oniba isu up iduluh fijafoebo rewvaha noh futoku sitma. Caddu asiruraz ka ce gaf kivonon okuto upjici gah medil de bepna folmoh fadip. Us das hiszuole suv uku diwonaji idfu hubmo lu gor tozvaj tajzefete. Foruvuj do gutecmuj wirwijo hovutga uke mutjajge ne jup itsecam un fu kotja."
+  },
+  "apiKey": "50a4f07616a3975b3cbfa42db4ec20f8e1258c1326dba96827ea5f9c80b3b966",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
