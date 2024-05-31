@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Tucker",
+  "age": 63,
+  "address": {
+    "street": "Akhur Turnpike",
+    "city": "Odnaheli",
+    "state": "ID",
+    "zip": "72867"
+  },
+  "contact": {
+    "phone": "(909) 889-3752",
+    "servicePhone": "800991125"
+  },
+  "birthday": "1977-01-10T11:42:00.644Z",
+  "ip": "177.201.36.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi mahatak sugikij onho gu poinohe kukij fusotu rilvow jo cazerira pu zusziwiha. Gulo ozuzo nej tu kibu wajepodo gimijob zugeeki gu jibiaho toruz adefi. Sa vajwotnu huzibovu liwhop tireveni wumrav vaci letut iwavub aseoha ki geh wemtu tirkifi tavzol ik aj.",
+    "bio": "Jefbad taw joco ve buwuf bufo pepguk ofavoswun ulesuifo ah carobhe jizbi vib zod. Barlaga se ozkino inefim pibeaz rugugi irkag mewribror ebici ihrolwul unafolej tinac goupo cuhpiti fuvwitafi tozu. Siak tu zadog fulsud akpur buhe divet pejolov davalli hokir owi hoko izeke."
+  },
+  "apiKey": "14761ee375c37b3855f93f1d1ea3911823ed19e17090efddd95c5587c7ca1412",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
