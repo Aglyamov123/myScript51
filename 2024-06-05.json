@@ -1,0 +1,26 @@
+{
+  "name": "Gary Wheeler",
+  "age": 38,
+  "address": {
+    "street": "Jibbu Drive",
+    "city": "Jepiktak",
+    "state": "UT",
+    "zip": "67077"
+  },
+  "contact": {
+    "phone": "(956) 739-5558",
+    "servicePhone": "800277477"
+  },
+  "birthday": "1965-06-14T03:18:11.501Z",
+  "ip": "189.106.156.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Lehci ged sewlo salgezvir kobfud hah itja datkehluj av razsuf para hom bofeleg wali. Hadopisi giamu bolebu ibowewjid ko davezam ilbo sihtitbu hoddiijo tigpu to iwosoliza haosozel vuzavtu fodgal dufbuwad ese. Kunuf livji tefenul tu zuveci nekpu zulgadip udovewfis tiperot buihimer vovalo mogdez ifo ja.",
+    "bio": "Fini si fusfimuz pibmegew oraloran ca jop to tu ve rojbo ego eca emopo huki. Sol bem va hirra jefuf pu luva idoduza uhbenju diz bus za be fahwojem josub. Je fumvokag fida musruh uleru jimtipit ucukti gohov laalado wovi enouhefa diavi leisce powen tenkaw wozkep tem."
+  },
+  "apiKey": "3f1b886eca9e7aac7d8dd5048393baffe41545f218cb744b1b2a6d2c1fc78391",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
