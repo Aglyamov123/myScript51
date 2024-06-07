@@ -1,0 +1,26 @@
+{
+  "name": "Jeremiah Weaver",
+  "age": 55,
+  "address": {
+    "street": "Bohuk Circle",
+    "city": "Roggazes",
+    "state": "WV",
+    "zip": "67457"
+  },
+  "contact": {
+    "phone": "(254) 448-7009",
+    "servicePhone": "800349878"
+  },
+  "birthday": "1977-06-14T03:38:08.444Z",
+  "ip": "251.253.182.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Jivbizi ajeog nabju edeami leiduguf ma enubu saleta muffu lo zop ce lugovag coforlez ud. Ugikokah jelobuz ujidup dipijew osicuh soz he kusogel dezirah pejfal mudijra givuppoh pikih iz. Zageh foajuki hidegiw esawo banliela fopran uwha fiineuro omi ojaugawu jotjak ehijir.",
+    "bio": "Kilcusis ejoal riduzujiv pasefa nu eseenajem ajeje neguhvim ozemobika niloca doej jo fuj da pikugi arjij sugol zespipa. Wofmabog loip nibbij riluf aculedoh zefud zojlalep tu ji megzuzpa te ihdufkuh kujzetizi. Ka mo faka zura eba nojjuv lawhapvur tisivu kec elinilo cipvi rog zu gi tokuta."
+  },
+  "apiKey": "e1d2f738fd7fa426d0e7ee43ec07c3662da3ac6dc529fd7cfdd25b774b78eb60",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
