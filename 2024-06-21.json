@@ -1,0 +1,26 @@
+{
+  "name": "James Greene",
+  "age": 34,
+  "address": {
+    "street": "Honpa Mill",
+    "city": "Gimoupo",
+    "state": "LA",
+    "zip": "97315"
+  },
+  "contact": {
+    "phone": "(650) 993-9612",
+    "servicePhone": "800639273"
+  },
+  "birthday": "1985-06-01T10:56:49.993Z",
+  "ip": "4.51.78.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Fusula vugojus pi hot mivajo il ciivo avvifuho hulifod apuwok femiwju umha ficfu. Duce senod lizgesuv ev afumi gepkavo faprukfu ba ejeruwup peg de hi vipu piw. Oko nul sub vuksotko ojtab zopamon itdi saeru hosamgi ruplije ca habpo igeeso.",
+    "bio": "Ja jed kezba nov wufewzef levijug ziza ufafa gah fet vijafpi lot fatisa tifham ilasep got rupogit. Ril wudjusnon gep dok nepewotod zonubabev pogni va ikvuhob ke sic teohi hen bakado. Pi emi belacu wora rigpuvjom riju moteb dabelole od sorfehu ive ulru. Pimfebin nu fuke vo do cazwiplo sufnopebo ozu uku nuz urotipce tago ke zobabu kejo win."
+  },
+  "apiKey": "96d253cd8aaf48201edb9a1be2280deb6bb64445ac4cfbc512137f525fb4dd85",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
