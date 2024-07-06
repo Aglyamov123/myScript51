@@ -1,0 +1,26 @@
+{
+  "name": "Henrietta Arnold",
+  "age": 20,
+  "address": {
+    "street": "Awubo Place",
+    "city": "Latcidu",
+    "state": "GA",
+    "zip": "68306"
+  },
+  "contact": {
+    "phone": "(842) 938-5838",
+    "servicePhone": "800359212"
+  },
+  "birthday": "1967-03-11T06:23:36.729Z",
+  "ip": "66.55.83.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Carva naveti igo tapag te ton wan lajcuum gak ho dilwil uzefeat ruve ebeca jorci azi nirwoguf ezti. Dakzode mono egavodo iwo gi ige gec mit bide gumiwadu hinra et ovel tarwel. Judekvom ob wi jobadaziv wozab vaga nugajazol tawig ve li fopisoda keklu hewelarug ova ut osuug vemon. Uvuej arpa ezej re sa raitu kozro vufat akcec pe ham iplattu bodogo kibomfuk waanofov miitamo buhuvip.",
+    "bio": "Hem ruow akotuc ute fuw azgoj ruzwib aw kavogeji wepitvi kelal ce ej venujo idmijmu dutkap zoztija we. Uboho pas huw ket nucu zocabok supnaf josim vov el wamo zalukluz ob se us tessa num cop. Fehimgeg suvevhin sokuvzak eku cuaw cap sev verwu ap ahuzaw rivana ilu jezzav lovnerbub icarab wa."
+  },
+  "apiKey": "f73d5f78cf7d17a113532c09b5eaf5da5c555e4f35313c2d1d44a41cb7b95d49",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
