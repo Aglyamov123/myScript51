@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Barton",
+  "age": 65,
+  "address": {
+    "street": "Zodo View",
+    "city": "Caoteta",
+    "state": "NY",
+    "zip": "59507"
+  },
+  "contact": {
+    "phone": "(254) 924-3588",
+    "servicePhone": "800672243"
+  },
+  "birthday": "2006-09-12T07:48:29.484Z",
+  "ip": "103.52.208.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Tagfa abebej pentunu ruw ku owru daftior umbatil wowec ceasije hilpizsi wos wu doino edijme mu umguv havoktaw. Pewiwus me fu owdelid bufoziriz wez nad didehuni vojdijku fanowdid majwi za hugmenmu um nufsakig kinwobow ba. Baufice paebbil alasimowa ad hagwi azoteb fuz ero pa ori ulokeh af cowu fi.",
+    "bio": "Dubdeun ul hiha ipuwpam bemowse ubelet ri pojdalaf tomed pe umdi fefujo ohuha foga sed zezri gamos vowuj. Fokehlap uja omlabuf nih dad jodri pejtawej tanait ficoga ce ape cuami giwetab ej gajcop bug ijurtod. Nelcumir ohonatu hashitjef vidsam hekdisit pilhiw boviwtow sic bejemomor zuol owwan fij fosicfot ga. Fanup run pos ubeha zel una foip citged nevto obeapdep lu maknupit sev noj zafacgi lito. Jalfuven zunmi vehidwa agtedpa kev taibu ziwivapu tu me ra ne be so nudomreb apako. Selonoce ni oj le goz kajidhu tidezep ju ohaku wipejah opoga abuekate me je wi uwe. Rape zuvuzbo tik vawcud upedam re voide sosooga ihfe asumof je miku fonih vil mufopinaw ce zu."
+  },
+  "apiKey": "b6952c94296aa47d72626a07cb9e515fde23138134e53021af975d3deb55e823",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
