@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Gordon",
+  "age": 51,
+  "address": {
+    "street": "Sida Pike",
+    "city": "Buhesoipe",
+    "state": "RI",
+    "zip": "48916"
+  },
+  "contact": {
+    "phone": "(216) 808-3822",
+    "servicePhone": "800446616"
+  },
+  "birthday": "1962-12-22T11:04:24.321Z",
+  "ip": "11.27.91.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Busvak iwjundid zuzviod papa elepavhij emu mi suvnuzdi koj ag vano gaz kaho ecofje cadcelmuz de caziw. Ofti ge cobhakudi dowofike cudido dicsof hag hi ajci asemu tewane kev. Zo ras sikgaj vogeko sehpef wu kelpocip arezin cebejo sakombih seej heproz dap kej wifibek zim. Ceadadag do tifis lec sajvow befse sa oz gabuwi riboabi veje pala mef iwsub wu lefohbos abmibas. Te upre mu uke dazija ibifajon raotiwiw kib roeli cuv zelovi lovcus ulianfu kaniov ifmogdu. Rudhom noipe egioku lowpec sabpi jubi felgic ceg pa miki zik cokduki ilurele nov lihfa.",
+    "bio": "Jedcak limzitli edeet dogizpu tabvu ivaduda ret cavacgaf oftiewu guj luzoc mofopcez delaku dipkasve. Feg kegwuew walule webus giwfubi fut docifku ve ukar lum sufwin de girej cu pazmak. Weruzwi pikduber caafbi fi feznasec or lis bihugjev tiepilot lebitor sivjegoru bunepok eza kawejto labfej ze. Pu nazlo of tejo rouhaku sa azahu siajdut vuszer mafevdar tu dago noduw. Loam vesuf atgoh ispeniz figmap vidhawsir te wogavcer ve cecjonpi orkob fop kivuporut izran. Isagep kew rubi padjebpo bavna vozutaloz sacub uliberiv iwovmac rif vi ewfanja cambuhof heba idu. Fem zefawjo so nizuho fe ifi ga keuhu bewid sanoco wevimgal naidhec fobifagev ji irefamde pip jesfu."
+  },
+  "apiKey": "bad88f3a6c1c21e77608802bf890efff165b486ac98e214fcc9e2e49ea67eaa1",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
