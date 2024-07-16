@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Simpson",
+  "age": 50,
+  "address": {
+    "street": "Ruzoh Grove",
+    "city": "Uhamuja",
+    "state": "MO",
+    "zip": "33422"
+  },
+  "contact": {
+    "phone": "(435) 826-7618",
+    "servicePhone": "800581729"
+  },
+  "birthday": "1969-11-01T07:40:04.509Z",
+  "ip": "150.42.218.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Coh er cowumda mislatkil tigvim pivtala kehoj uj egwi navow mekuhfu dour vizub torzew poducji. Ewuziid woluco zebeg heg vazaki viw bogew luh of ipa reccosu hivifaza fober wudrowi. Lapguzew imgekik icimud ribka seh bamapwu doisdew zumofus do fu megijet bapok. Buco linba peih ijobimvub ko na wagminod toru galak azigeki ruwrus tohdefmo buvi fu hemzem.",
+    "bio": "Ci do sosifosap avfuojo sopfeebu jopoet we anobeilo fezle emecef suntuvaj kewak rovvaz bebiveb eti. Vu fecre oprotsal lafhe nun azcalod tamopkev tif elpav dagasnom nafniwo gubpupa but vo rijwac nufdi riccu lozti. Hinaru gelzuftaj kebubcik sojuw zo tugiiko cul pu la ronena ewdo ba zivuzta. Af guozi kemaw ime fo mavepjat ezose wuhpat bowiwo ketuhfon pebe la nucel za. Daonedeb civu kog of kuobajoh merfehmuh cisiwizi li zatamiz taf varnuabe tum apira jat. Zigam newlu vascilsut juhges bariwi owisaon keg wemifnoc zoc jo zevze nocpuv rodfozib paku."
+  },
+  "apiKey": "6432f1572da4b60f7ce4804c3c77281ebdd5373f5c0b2f249bc7767f59cba5a7",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
