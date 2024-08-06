@@ -1,0 +1,26 @@
+{
+  "name": "Milton Payne",
+  "age": 38,
+  "address": {
+    "street": "Rakwa Heights",
+    "city": "Ofsiftu",
+    "state": "NH",
+    "zip": "12805"
+  },
+  "contact": {
+    "phone": "(358) 246-8637",
+    "servicePhone": "800851315"
+  },
+  "birthday": "1987-10-19T12:02:10.940Z",
+  "ip": "112.65.3.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi wo jumjeltaz huzvek mosubhar meh nuab tamfiguzi wo ananunuj gutzesafu ted. Kug po fewdap purid hartig pufu zij borre kudge huti kuuniku runucene. Hialgum wiccupok uhwajig wunfekiw ukipuk fid gu igapaw ceffezhi amo hiosaofi sudfu herweg ih iltuimu. Kugivu uhede ubecekuh gifewuge uz deor pimcil sovez fovedmog nuzmeava nan ale. Awece peiloas coprep ehi me kurra evetitaf vakbebaw pebibaic gibom lege ijal fevzo lin fuknar mahomcal suecno usawuz. Bekhakiz ki ekgumi ja noec ok haj kodbiodi nibvu nazo zorba pa noser josianu lisenda fu torpokete hezcih. Suez amuil rubrub tofari relleklen hilot gejtut ameemafa bes wussotaf roal doez.",
+    "bio": "Buvutla asipenam dugdud ja ajlaj is hukcutod co apuosaso teuni gajrar tip ni eb heccenot. Peebga dez uni gog kubifoci acehew veni topuihu ge we nukji vu epizokaf rof juj buburi. Vug bewa bojfe vawco palepoc pil zohgotgat ga ichan haota zule bo. Wenutgik raane volfeih inmo gugtofu cet hudhe kivowioc mabif bav obeirutu ir se. Eldo ineutogiv pu holaame vimse ufcewuz bezifnok mego nivaslu fattip vutege ebu surpabto lavenec iwhuhul fubra mo. Iwaso koazi sipezow fav ifi aca las gucoli ub jimrowses kegu otomej."
+  },
+  "apiKey": "a3f1cc43c39dfd10dc6253b1c73b738f71fa165f1b88909055b0ca6cd257e8b0",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
