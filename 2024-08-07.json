@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Matthews",
+  "age": 22,
+  "address": {
+    "street": "Rechof Park",
+    "city": "Gekhokpep",
+    "state": "AL",
+    "zip": "57158"
+  },
+  "contact": {
+    "phone": "(845) 935-8654",
+    "servicePhone": "800665485"
+  },
+  "birthday": "1960-07-29T03:35:34.742Z",
+  "ip": "21.142.39.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Na kod kev jo vaose he burezaz zi hafole likikda cupihu de. Apdoj dako huici heocuguv bohiwlog he gul ab cihnopet sobiwlap nakfuaj nerjo miw dot diwaj. Cobvukpab haseg nuhurkip dulcir vagira muitufa naipoan cezil dij zu lazuvawu jiw wawawe kimcub hathu emimoveva bajjew.",
+    "bio": "Maj julagpid wamu dukeope huba wul haj coj noaru ja zubiso ficmutuj kepusmu gonudotu zegic. Sietmew zapweho jawpiz niotka uzpu tehriz natew lo tap uz ehemi ijwe tamazmu zodraciz se. Owjaz cuk suruef japho gosala jogba re conij usfo suv mojezes de itera herhef sovihbo diimi luacuze fam."
+  },
+  "apiKey": "0410f1074f2b1c7bc2d405c95ed91c5ca85c6165c8726738bb4ab7b9baf2466f",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
