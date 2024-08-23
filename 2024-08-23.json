@@ -1,0 +1,26 @@
+{
+  "name": "Maria Bradley",
+  "age": 37,
+  "address": {
+    "street": "Otna Pass",
+    "city": "Zockicke",
+    "state": "MA",
+    "zip": "70451"
+  },
+  "contact": {
+    "phone": "(611) 251-6419",
+    "servicePhone": "800176958"
+  },
+  "birthday": "1964-06-30T01:48:52.149Z",
+  "ip": "166.12.36.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa ta cebhulcun newadbat je zacvu lamu mel gab bivleki ruvuap maljuvfi memtin ca. Wes pil daofutun mov tahnuj oj cehdoc porkalib jepel avpisek wuznom enelefha kujebi vanili ugiguker ujab ta. Fagli viklenuw gakcafbuj fuvviib hadogde ajnucne hofuc fehipe vedleta sagfir de mazdouf sefu.",
+    "bio": "Hu daged ovmuj if ir cihme picewuba heh fuja wu esjo eczodmu gevzi sigculco lusnib vedmece teppihge keb. Mof zeuzwav mirjic liwku warahhiz ga woli wajhef kozapda nupkutac zufsoh nus zacip fegum uzpo ke. Ilal pohudu op dumes ka ziavisok zajrenam alese deoba kem imalbaz menvi."
+  },
+  "apiKey": "97c8c5dd940780bcdb173542a0f0289872a47f5d1d14db16f5c353fc50d34a05",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
