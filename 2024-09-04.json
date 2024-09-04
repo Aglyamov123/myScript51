@@ -1,0 +1,26 @@
+{
+  "name": "Sophia Todd",
+  "age": 57,
+  "address": {
+    "street": "Afiuw Path",
+    "city": "Bosiwkir",
+    "state": "ME",
+    "zip": "53088"
+  },
+  "contact": {
+    "phone": "(441) 432-6691",
+    "servicePhone": "800936739"
+  },
+  "birthday": "1977-12-26T06:21:02.026Z",
+  "ip": "200.75.153.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Wefti milillul pe cifedi ce ivakusige wogbu da suk edo aje erijoddi va ju irbem gipiuzo. Hudidu nosad egebec dakhifcoc vofos adca tocupu ucbewho kornucju bitospav geten gihwac. Wi ilopajze zalasi eneke buvebu hutut hizobug ja zolava ga sihahlif ugojob fewag af decam hazehibe ti.",
+    "bio": "Giat cira aljatho daez bojem ufu kavvoz fife refasew ide zifokebuh hopo vumzov ujuco. Izerevfoh cudpe ijipo mu juurnu korcezmen cohuhab oraaco pi gi tuknic cisdiw udli madaf wagenim mevip ujeih dopjas. Oge cojfeucu gel cesike la eberunu ru wuwa alrosu tatwi cek ivi bew uhvud."
+  },
+  "apiKey": "eed8becbaa59e990eb550efea7fc7033a124c32cce3a8111790cf8ee08373ff5",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
