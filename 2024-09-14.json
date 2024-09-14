@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Duncan",
+  "age": 49,
+  "address": {
+    "street": "Powe Pass",
+    "city": "Pavirol",
+    "state": "AL",
+    "zip": "29689"
+  },
+  "contact": {
+    "phone": "(271) 914-5388",
+    "servicePhone": "800129993"
+  },
+  "birthday": "1974-12-22T05:56:33.458Z",
+  "ip": "254.219.150.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ginma un ac susdi dufultin zujme sispa gah vo hi em ubaup wugal zikusvel. Comwutin fu urarikca citavisu sez jowuknu wutkapgi vo hewo ite fethuz huloj. Jociv nepa ov jep bovgupbe duha zirarel ru gogom muji to hezegoh dearku ocaagi.",
+    "bio": "Gote udcoad ju uhena rebkugej esapirwe sevbosozu getawub relunsi jevelol rizdizdi uctodez pevujha ed. Vinjoz riwij ra baaduco cemdaej fi tokacej rahaati kiwnaej akfit kewbe pughez caak walku daw. Ren goc nuhfapaj mikok kerotceb co are vip onome bur poliv giwafa hub wanakhi namudemol. Panwemzun jep baf izaturi cepif pacah abpe hebkezhi si aduutse toblojke wo haewce ce mifuika idiatu worihpig. Maluh zoni huuv okiapiel lavacmod jonetimi omeriawo ciruwene hegla topier tevgez mic gotteapu koel wifcuzzar hemju ohubin caclugbo. Ciw mahhido pe uvlod kas atidujes wazupjir finef zi emaefeipa awefi cesal su melji zonihsi osuhoh. Bughalju za noip sunemo agu hijokidis eg ome veci zirodi sav darsa ecpur peta daluv."
+  },
+  "apiKey": "166a75a976c07071cbed0ff0457d61f93b361d9a476f92bf34da3c619af7757e",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
