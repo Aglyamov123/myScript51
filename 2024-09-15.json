@@ -1,0 +1,26 @@
+{
+  "name": "Charles Frazier",
+  "age": 42,
+  "address": {
+    "street": "Mion Ridge",
+    "city": "Zazuezu",
+    "state": "MO",
+    "zip": "39227"
+  },
+  "contact": {
+    "phone": "(864) 427-4522",
+    "servicePhone": "800518761"
+  },
+  "birthday": "1966-02-25T11:20:21.797Z",
+  "ip": "190.16.46.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Ipajodwez aho jeta tokni pa dubanah ge eropamweh kur vukatiaro colate wirezi. Tucamo odbaskep sabzahi sup zowozipo jek ukipebif so eg zisiwo vuvab so ceaw. Odounumal jaucbi wokalo poki fuivieko ve ja ziftamkep uz em mobowu nigo su.",
+    "bio": "Azo waluvor murazoc meuju uc jubede tadumho jouffe odo fopsep tinnal belov fodpajsi piwo da wibof vanub. Liisevi pugca coahcep tuwuob tirbazbe eruoha az lanipge ehe mif vujil luj aj ma oz vezu ofo poguwis. Jop nac zimlirdug zomanvel or marem mufilon damse apeelolal osicu fupenut sok mi udiluccav sez esnawad fo cigcec. Mizam sifjis unuzawvon zasfag ig pek zu soz uz jozarop sende vah homabil ubev. Kilbapjo po gurud fe jekisaja ejegilad wehbomij tekisjid pufic tas ojizifov zawlo viag kabgok roneh jet buza. Koeg jukcuzcag paze pokbuca cinimup gimorbec zocoplup torzoc bem bufdul wefi lup zenila huhfu pivel abeawoci."
+  },
+  "apiKey": "133d4bfca3ad6b03907094800473494ea27f1f4dc2ced9cda63e5fa798f38b4f",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
