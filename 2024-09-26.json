@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Ross",
+  "age": 31,
+  "address": {
+    "street": "Rujaf Boulevard",
+    "city": "Pickahuru",
+    "state": "LA",
+    "zip": "80137"
+  },
+  "contact": {
+    "phone": "(626) 603-9976",
+    "servicePhone": "800637944"
+  },
+  "birthday": "1996-09-25T02:48:52.016Z",
+  "ip": "99.36.79.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Ob dik leprel zemaci nucucke orgi fesisu uhekofil duddemi nepguszeg gosowna hijhir unepe aj esnunne wawobun. Teingo unibum geajota ma gafkap zut tod iwata fefdeec emtadev ja jespam he be kizjit morhawzak keol. Ojatijzi secmucrum cuwel zu ko der hor lilvenos zadi ta ji mowohupe ce huzson geto luvubonaz. Ku kos jelefhu ukterzaj ditgu vu nal wevepuj zosus arov pi dino cipri ij moetbu codbiksu rudini lez.",
+    "bio": "Dem bok ihov abudu if wuc vaznacom tiguh zaswotot wopeit gur dopebofoc dosip rium obkinkeh dalnew muwuhta. Anhohal cesego ina nos op roke vu ibo wosihak nefwunol banehez vu aha jiza higkazan nomsis. Dacip wuvluzuf lopokil gi afa ucdi neme ciczagno te kav tiv zihno ta."
+  },
+  "apiKey": "720bd6994bcb758234d7a3df7b1cd392a85d0997edf28809a313df1bd80030c7",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
