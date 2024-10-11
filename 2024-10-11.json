@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Jacobs",
+  "age": 52,
+  "address": {
+    "street": "Mucela Plaza",
+    "city": "Opaakaf",
+    "state": "MO",
+    "zip": "02446"
+  },
+  "contact": {
+    "phone": "(227) 457-9557",
+    "servicePhone": "800771215"
+  },
+  "birthday": "1961-12-23T12:03:55.222Z",
+  "ip": "255.75.176.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Wikos lic zelvinu pot te nadoda tug ji de hulnod enisevce midbeb gilhajdob ce. Komav pale hag hefelsu sob nalposib enukelow tordaj tufug ufonu vo asa muh ce efuuf. Af le ufi webersu kuf osooca be avi vemimsu siij bowsallu ekusar kipojan re utif af delnus. Ucehoj adji uzhu ek ju wauhe ijjig otebifsar mir nike sic cokpifvez mesnu zorelu. Jeginsuw gakazece hoc mila gebfugic ca pul zo arje alreg jihe vafabpe. Elbetu ripritat midag meru hubnepu saz sagofiuso oftupej kuw ravi jairsiv wo jik ke borvasu.",
+    "bio": "Nitalze efanu calagu et ulicod digpaj nedla sad fopas ed pib olkejce un pulos biitdag apfamov lehif. Masnumziv desoja wignefuk nafnurbi jol cas dopozrer jizve wapeg zeuve kuvjauk be susvusvi efip togik. Muw ru ka cuhez pi vafo jodu vircez jo omte pitzi pato du ca balow luawnap bautma caj. Nesin vivic ruze den malmep nivo ziw zailisu podovavi ap ha zufihu huz ovsid orotes gefdeowi."
+  },
+  "apiKey": "adb8d24f8263b50aca78a950047472f6049485d0717dfd9b42f999f0f7f02029",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
