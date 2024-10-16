@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Greene",
+  "age": 30,
+  "address": {
+    "street": "Zodeji Way",
+    "city": "Zikutu",
+    "state": "MI",
+    "zip": "05428"
+  },
+  "contact": {
+    "phone": "(946) 503-7052",
+    "servicePhone": "800315866"
+  },
+  "birthday": "1984-11-04T03:46:06.838Z",
+  "ip": "137.182.38.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Godpov to kame vanaforo cilew zorzafo rupboewa cab na nuz ze vedzabrob zuju pil hilo dekevi si guncub. Mi jinwe rid vuzeleofe comoj wuz acdil kopzoga asa oge ruz hevevus umsagzeb pu befejjip puifnis posta dowkejker. Ikeawiohe amoodipo eb wu ujo zi vahegjam uwanoju mujirigaf imkibev zahdenet sobbiw piaci jusbiwnut enodebuz ozowegag deptanfa ir. Ora opmiaki dojmoh sotazep zo uziamun olnijuw dum ote tu ragmapu muha zawe riw ugmiub toko liwko liblo.",
+    "bio": "Og wep jedol ahaehu becehas ka joodemu lamuceme fizwuh ob evub secgajkuf gubic lip juspe kawfolba rofajpul. Rizut mumnecti munlos ob kifbohda edtuvo uw telze pulne idej firewe ka sefajja ha dimoduoru hebtefav. Bob goter wir fu nici fevgo juptocda tasawu bu uv bugo geg kimo oviejel wajwejvu."
+  },
+  "apiKey": "a59b426012f3bd65a9cf8ab9203a96911911d66ff07694d477d235e139cdd0a3",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
