@@ -1,0 +1,26 @@
+{
+  "name": "Jon Bass",
+  "age": 62,
+  "address": {
+    "street": "Zeko Boulevard",
+    "city": "Jafeiki",
+    "state": "WY",
+    "zip": "72056"
+  },
+  "contact": {
+    "phone": "(840) 856-5879",
+    "servicePhone": "800578175"
+  },
+  "birthday": "1974-04-02T05:58:54.291Z",
+  "ip": "156.154.237.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Lezuj ruken viici uw focfa em dam jukgimen zemid gig lomi nod rugjucac ag vorwoj. Jochidag fekaac pahnugu igolitjun ho esizik tuh azbip cifku ran zabi vucaov voc gefwi ug. Momecibe od uziig vewu sawole pew za nocnoivo lealocav ikoro nu mudsak gav aje piz hiz ow. Guwmeptec juwirokuz mi huc tobriwa onisehpoj fajuuke viotu ipkava ape kuwur poz la rehu li egge. Wat nurde vupeehu lacahehi is fisab ku hini zok nazpu tov zaplije levlazzek ecaezacen. Uvsof pitguh ajigirvac cig nuafi tifvota af woho bukeh jahuze cesilfi zioko ruvzippe neupa sirpezez nopuka mikvaco.",
+    "bio": "Oguati vo awelara hi on fenawun esituw olgafle ularauf foichul sabetad fiisape. Fazkohek rejpitvu ikeujeko misbiv cowwavde na lulto dittese sabutol ludafucet fur utu topamup wuznudzaj fod uhomuf. Tirkeme wum gajsinib obeadhu dacag zi poplemom oru elare bewen lup dosob wejasfe."
+  },
+  "apiKey": "9ac70b46344dc36571fd350a6a3ca58c7e40cc62256916f20160780723609779",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
