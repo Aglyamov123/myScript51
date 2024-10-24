@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Fletcher",
+  "age": 21,
+  "address": {
+    "street": "Tojla Lane",
+    "city": "Wonova",
+    "state": "AL",
+    "zip": "69499"
+  },
+  "contact": {
+    "phone": "(760) 616-1169",
+    "servicePhone": "800364386"
+  },
+  "birthday": "1959-04-12T02:30:10.265Z",
+  "ip": "201.73.68.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Azatogna sez zavzej dovaw mezoj meppaja hipov uhjivjap dohe he wejuc pemcu. Mofepodo cit ortaus ab siwrap acara nigatbu ul lemal ma taczo muvejez ke pu za bez ip ta. Nun consusa vijomal ujmomle zejovikac ube pene madrusus achasiv soubpiw hoh sigtajki wazuri seakuika. Jibassed al etizab kef tuavibe faej toafotog nuk rej han momsebeb dikukfaz vofco pu panerif du bu bose.",
+    "bio": "Azvu reac ezehehje omoluir caur zuwa urikujob laduat wafulbob osu okadzok bawusuc dagnero uwowet idifeop. Wi woirzej obulwir sogziz wur ez wiaccof itjuh ora sazviha kizuk mobisazez. Lognu misku ronkuv wawusaf depuho beb nopik hofnaivi cedri inura rouddid inifodpuj onihocke."
+  },
+  "apiKey": "bebb78d387cfeabf1badf66475f6835bffab68d2e5b27316d7f185b2fc8a829d",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
