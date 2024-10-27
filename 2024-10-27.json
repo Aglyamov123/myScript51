@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Gill",
+  "age": 23,
+  "address": {
+    "street": "Viblez Drive",
+    "city": "Wakubwez",
+    "state": "AK",
+    "zip": "91676"
+  },
+  "contact": {
+    "phone": "(461) 492-7149",
+    "servicePhone": "800939277"
+  },
+  "birthday": "1978-04-06T04:22:00.464Z",
+  "ip": "42.166.94.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Carmesu uffop inu takmud lefodga cotu leegeugi wepdorhi op dizho macvew nifabvoz cipdazip poglunmi iz. Sigib puilu tusu dannol pirros vasuw gehdov gevot lowjuzu ne goabeer gemikkud zi erogiaj me jogoca des. Ad zuheved rosbuzoz wu gujsuju deamdep ab nu fasvu jic kud givdu hogbeuso rozzoj. Ku sirze kaoz piki hun mikam delu giwomez sokca sohaoju du mujanen ofno.",
+    "bio": "Ra jilumon mut be rav zeg fuzhicit musdizu tothuhih miat uji fugasefi agva coefi kiksaf taej. Zohuv gonzucu da huttab kaw rip sombetsal wof rocmaw me megfafi wal to. Jorov mut gidokwak zekro atifo misu kahopnom muzcidhen epena bur aw vawa suzela karamuge lezi uhe."
+  },
+  "apiKey": "995db6e00717c68105d646317180b77bd32e5a875f79aee44017c48b2afab4ea",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
