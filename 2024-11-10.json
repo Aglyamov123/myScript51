@@ -1,0 +1,26 @@
+{
+  "name": "Christian Hines",
+  "age": 25,
+  "address": {
+    "street": "Ewesu Junction",
+    "city": "Topuwot",
+    "state": "WV",
+    "zip": "84994"
+  },
+  "contact": {
+    "phone": "(771) 414-1162",
+    "servicePhone": "800336131"
+  },
+  "birthday": "2000-04-12T01:30:12.571Z",
+  "ip": "62.160.169.198",
+  "foo": "bar",
+  "profile": {
+    "about": "He cekeim wolege higiz busaripeb si ehuhsoz zus wewo ca ufu zo ru jifwe atazobkij op pefwi nugi. Coftakdi obojepgiz ne nac luv dajfeju enli picnuz dok bego hum jot nupid. Toj fu gumcigew masjade metsoboh how ca hooromo ruvki egavomom catsuedo na ubcu zorcid ivebin hi ce.",
+    "bio": "Zo tav juf foewma etoviam pew gomuk unokas uzrec lurodeg hirfodoj luvedroj julitgal helupdob ju lironali lufcuzah zokrevlo. Wica biru zenseiru dac uvfil ug reugalu le es ka tuv hohzowok. Di recutpeg pusop sawbosah nipjuzu hiko pi bi ni tokolhod harum ogihcab lofse. Ka piwpe voedufo keguoj lazifivo ija ijefac paoh fivru lu losvagud so gazvokkim hodmuija oguko tasoz. Go lu ziroc ulavu peshumu wuldukkec wihgadcit hiato rukaoda suek bek udru ku izwokme pogoba zac tetoda. Lurkam bopwu melik tubfuca nanlag wu izmo ze tip wa zuib le bugojkib ommore ze bonukubo umka."
+  },
+  "apiKey": "5f936238830fff1ec953144217430e5162541c785b57c49a66ec770884e17900",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
