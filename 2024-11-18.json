@@ -1,0 +1,26 @@
+{
+  "name": "Myra Armstrong",
+  "age": 37,
+  "address": {
+    "street": "Batzi Mill",
+    "city": "Nipvijito",
+    "state": "NH",
+    "zip": "07552"
+  },
+  "contact": {
+    "phone": "(621) 655-2889",
+    "servicePhone": "800866993"
+  },
+  "birthday": "1992-01-01T06:15:53.555Z",
+  "ip": "87.59.233.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Lirgaf gecit koowi oloomied lugpusbof domzi dip laf carhesi veace wew ta gemfejaf ocool. Nuhalamo ha uv je lerzep wecwuhi abpora na comjiik ze pejatek lijkugoz acaca gucje. Nivcom volpoji pihuc tefzumrot vodurza rozralba bopge cetazmo ron waf paomibo jop obkig zevbi mohel ce.",
+    "bio": "Fim heje nip pimusa fu ifsac guah av topcowpo pagbun ajawiul do imofi ha rourtud bag alajazgiw veconbe. Cajku odgaifa ga adi vosah pegifo jehida cu pucohed it uh kilkih anaz govod evi udooti zuner. Bajjaga ubhizki silulu liir ijrafgo gorgurok isbuz zu sulawavi hejkofo lilva umod feucanu dufbic mudcona wotijvol ure eduwi."
+  },
+  "apiKey": "7dd64215ebe49b506c831c53c85b0c0a77edf0449c1e8cd1c128906829d8c070",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
