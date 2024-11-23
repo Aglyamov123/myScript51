@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Stanley",
+  "age": 58,
+  "address": {
+    "street": "Poslup Square",
+    "city": "Matovlic",
+    "state": "NY",
+    "zip": "21358"
+  },
+  "contact": {
+    "phone": "(342) 325-9019",
+    "servicePhone": "800416159"
+  },
+  "birthday": "1978-03-22T03:55:22.187Z",
+  "ip": "184.185.171.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne zejo ataum refamto cirvezu hol jaasca duile nodros taivabeh ki pe sucuvafe cewgeunu. Fekpen jiul ihwaz ukuba udoaluolo voicu tauf mep wepikhi oleope lo kalikig cuaj pecba mivfaj na wun had. Lekup tigfez dohhawel mivi il za po fumku mucini pirgiwol rawpi ba ohiolu tahcehpuc. Ravzep wupcekefo adda rokaco tovde ke ke gu fandiob idu patofira vuhoko mifreha.",
+    "bio": "Musre waza fuhe vejak fu awu nu udpakoz sibkulis gerran ava eterom ze juul zeezde. Tawi ame neled tu wo fu od pejvem useezo sag hedu hamon ewugidkeb rupe fir. Ze jul ne fegan lijzubwez nitdep ribso riza meuj da wiftalfi lis jufic jajti as uruwid mafdopve."
+  },
+  "apiKey": "cecfc72e41a68d5b67417f453aefe55cc82d96fb56fb7d1dbd6be825bf6f3395",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
