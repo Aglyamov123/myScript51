@@ -1,0 +1,26 @@
+{
+  "name": "Lester Blake",
+  "age": 59,
+  "address": {
+    "street": "Kodfos Road",
+    "city": "Muducov",
+    "state": "MI",
+    "zip": "32951"
+  },
+  "contact": {
+    "phone": "(569) 613-4134",
+    "servicePhone": "800282583"
+  },
+  "birthday": "1985-07-07T07:56:19.414Z",
+  "ip": "246.50.191.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Vaj ani ga aju becawgaw pomazi dejciwaw novwecfeh cot hu pu wuusazep wom en hanec etri gu revnap. Car fanri kemmawu umnil ivieveodo oba cuk vurul hemci ed puvon bi. Jamdulvik be hofulim pemvah do pi baduzi zacpotit to pu lubup udecahar jebukune ragi rewi veweew.",
+    "bio": "Uz raco wedeir nokok fetid nih ze awo buk to rurek con tujne. Ecfusno cusafbe oh rowian kauru fajviewi kov ru zahojtu tehpoja tursodvu mi zogij ow kilopadi. Jojgin ecopica vugziwveg ore lachilin peg ca me ral semu neolgi nonfenon rawdaktu ehokusag gore vu. Jinaehu ecebojipo rebbi upo havkof ikufako ro hel hili jupuc ujcajuj gec ol."
+  },
+  "apiKey": "6cfe496471cee71065ee21735b838c5f29572c5bb35f0dab6a4a678b7ed7a703",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
